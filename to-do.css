@@ -1,0 +1,53 @@
+body {
+    background: url("https://wallpapercave.com/wp/wp7881177.jpg");
+    font-family: 'Poppins' , sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .first-div {
+     width: 360px;
+     padding: 25px;
+     border-radius: 15px;
+     text-align: center;
+     margin-left: 40%;
+     margin-top: 10px;
+     position: relative;
+     background-color: rgb(22, 113, 65);
+     
+  }
+  
+  input {
+     width: 270px;
+     padding: 8px;
+     border: 3px solid rgb(17, 58, 45);
+     outline: none;
+     font-size: 19px; 
+ }
+ 
+ button {
+     width: 60px;
+     height: 41px;
+     background-color:rgb(17, 58, 45) ;
+     color: white;
+     border: none;
+     outline: none;
+     border-radius: 2px;
+     font-size: 19px;
+     cursor: pointer;
+     
+ }
+ .text ul{
+   position: relative;
+   background-color: rgb(17, 58, 45);
+   color: white;
+   font-size: 19px;
+   text-align: left;
+   padding: 7px;
+ 
+ }
+ .text ul i{
+   position: absolute;
+   right: 10px;
+   cursor: pointer;
+ }
